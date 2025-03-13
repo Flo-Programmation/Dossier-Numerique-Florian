@@ -1,6 +1,6 @@
 
 /* Code pour le responsive de la page */
-@media screen and (min-width: 414px) {
+@media screen and (max-width: 414px) {
     .text-bg{
         display: none;
     }
