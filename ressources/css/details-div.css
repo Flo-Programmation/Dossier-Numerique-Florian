@@ -1,0 +1,43 @@
+
+
+.container-details-projets{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.details-div1, .details-div2, .details-div7, .details-div8, .details-div10, 
+.details-div11{
+    overflow: scroll;
+    border: 10px double black;
+    position: absolute;
+    background-color: white;
+    width: 70%;
+    height: 70vh;
+    padding: 50px;
+}
+
+#btn-close1, #btn-close2, #btn-close7, #btn-close8, #btn-close10, #btn-close11{
+    width: fit-content;
+    padding: 10px;
+}
+#btn-close1:hover, #btn-close2:hover, #btn-close7:hover, #btn-close8:hover, #btn-close10:hover, #btn-close11:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    /*text-decoration: underline;*/
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#d_div1, #d_div2, #d_div7, #d_div8, #d_div10, #d_div11{
+    visibility: hidden;
+}
