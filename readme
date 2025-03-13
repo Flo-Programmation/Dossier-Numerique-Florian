@@ -1,0 +1,47 @@
+
+
+
+Création d'un dossier numérique (Portfolio)
+date : 16/02/2025 à 13:49:00
+par : Florian Albuffy
+
+Contenues du Portfolio : 
+    - Mes expériences 
+    - Mes formations 
+    - Mes projets réalisés
+        - Professionelle 
+        - Personnelle
+        - Cadre scolaire 
+            - Projet de groupe
+    
+    - 6 cours choisi ultérieurement
+
+Fonctionnalités qui pourrait être intégrées dans le site : 
+    Menu : 
+        - Effet au survol 
+        - Effet déplie et replie (voir le readme dans le dossier 'Fichier code Widget site')
+    
+    Page:
+        - Landing page ( une seul page, pas de scroll )
+        - Effet parallax 
+        - Effet de scroll -> en pillement de carte
+        - Ancrage sur la page -> Faire défiler vers un contenus sur la page 
+    
+    Contenus page :
+        - Slide d'image
+        - Mur d'image disposer différement
+        - Formaulaire de contact
+
+Les couleurs : 
+    couleur primaire -> #E8E9F3
+    couleur secondaire -> #272635
+    couleur tertiaire -> #7880B5
+    couleur alternative -> #AD8A64
+
+Note : 
+# Couleurs Créatif et dynamique (graphisme, communication, marketing)
+#   Couleurs vives ( corail, turquoise, violet, jaune ) sur fond sobre
+
+# Couleurs sombre : 
+#       bleu nuit : #0A192F
+#                   #1B263B
