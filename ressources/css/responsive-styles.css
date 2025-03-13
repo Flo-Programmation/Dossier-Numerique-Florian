@@ -59,8 +59,11 @@
         -o-transform: translate(0, 15px);
 }
     .container-myself{
-        top: 60%;
+        top: 50%;
 }
+    .container-skills{
+        height: auto;
+    }
     .container-contact{
         flex-direction: column;
 }
